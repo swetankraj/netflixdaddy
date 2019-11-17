@@ -1,12 +1,9 @@
 body {
-  height: 100%;
-  width: 100%;
   background: #ffffff;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 14px;
   color: #010b26;
-  overflow-x: hidden;
 }
 
 .Logo {
