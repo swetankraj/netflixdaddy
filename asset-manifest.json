@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/netflixdaddy/static/css/main.d08f73c8.chunk.css",
+    "main.css": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css",
     "main.js": "/netflixdaddy/static/js/main.f8b1d456.chunk.js",
     "main.js.map": "/netflixdaddy/static/js/main.f8b1d456.chunk.js.map",
     "runtime-main.js": "/netflixdaddy/static/js/runtime-main.835edcc5.js",
@@ -8,9 +8,9 @@
     "static/js/2.847920f6.chunk.js": "/netflixdaddy/static/js/2.847920f6.chunk.js",
     "static/js/2.847920f6.chunk.js.map": "/netflixdaddy/static/js/2.847920f6.chunk.js.map",
     "index.html": "/netflixdaddy/index.html",
-    "precache-manifest.005d820a5f554201c6e66cefbd32153c.js": "/netflixdaddy/precache-manifest.005d820a5f554201c6e66cefbd32153c.js",
+    "precache-manifest.3de748c2f302777196cff6c2928e104a.js": "/netflixdaddy/precache-manifest.3de748c2f302777196cff6c2928e104a.js",
     "service-worker.js": "/netflixdaddy/service-worker.js",
-    "static/css/main.d08f73c8.chunk.css.map": "/netflixdaddy/static/css/main.d08f73c8.chunk.css.map",
+    "static/css/main.ba0bc2a5.chunk.css.map": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css.map",
     "static/media/avengers.jpg": "/netflixdaddy/static/media/avengers.372568c4.jpg",
     "static/media/deadpool-2.jpg": "/netflixdaddy/static/media/deadpool-2.09ef758d.jpg",
     "static/media/netflix-logo.png": "/netflixdaddy/static/media/netflix-logo.a1f673e7.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.835edcc5.js",
     "static/js/2.847920f6.chunk.js",
-    "static/css/main.d08f73c8.chunk.css",
+    "static/css/main.ba0bc2a5.chunk.css",
     "static/js/main.f8b1d456.chunk.js"
   ]
 }
