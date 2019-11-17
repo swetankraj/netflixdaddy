@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d08f73c8.chunk.css",
+    "main.js": "/static/js/main.3409e720.chunk.js",
+    "main.js.map": "/static/js/main.3409e720.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3032167e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3032167e.js.map",
+    "static/js/2.847920f6.chunk.js": "/static/js/2.847920f6.chunk.js",
+    "static/js/2.847920f6.chunk.js.map": "/static/js/2.847920f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.676a7e3b468779864652dcfd0c1c288e.js": "/precache-manifest.676a7e3b468779864652dcfd0c1c288e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d08f73c8.chunk.css.map": "/static/css/main.d08f73c8.chunk.css.map",
+    "static/media/avengers.jpg": "/static/media/avengers.372568c4.jpg",
+    "static/media/deadpool-2.jpg": "/static/media/deadpool-2.09ef758d.jpg",
+    "static/media/netflix-logo.png": "/static/media/netflix-logo.a1f673e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3032167e.js",
+    "static/js/2.847920f6.chunk.js",
+    "static/css/main.d08f73c8.chunk.css",
+    "static/js/main.3409e720.chunk.js"
+  ]
+}
