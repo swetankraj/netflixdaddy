@@ -1,24 +1,28 @@
 {
   "files": {
     "main.css": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css",
-    "main.js": "/netflixdaddy/static/js/main.f8b1d456.chunk.js",
-    "main.js.map": "/netflixdaddy/static/js/main.f8b1d456.chunk.js.map",
+    "main.js": "/netflixdaddy/static/js/main.f628121e.chunk.js",
+    "main.js.map": "/netflixdaddy/static/js/main.f628121e.chunk.js.map",
     "runtime-main.js": "/netflixdaddy/static/js/runtime-main.835edcc5.js",
     "runtime-main.js.map": "/netflixdaddy/static/js/runtime-main.835edcc5.js.map",
-    "static/js/2.847920f6.chunk.js": "/netflixdaddy/static/js/2.847920f6.chunk.js",
-    "static/js/2.847920f6.chunk.js.map": "/netflixdaddy/static/js/2.847920f6.chunk.js.map",
+    "static/js/2.78d1d115.chunk.js": "/netflixdaddy/static/js/2.78d1d115.chunk.js",
+    "static/js/2.78d1d115.chunk.js.map": "/netflixdaddy/static/js/2.78d1d115.chunk.js.map",
     "index.html": "/netflixdaddy/index.html",
-    "precache-manifest.3de748c2f302777196cff6c2928e104a.js": "/netflixdaddy/precache-manifest.3de748c2f302777196cff6c2928e104a.js",
+    "precache-manifest.66ddd1c36cbc0d0c4f708f17a45d3158.js": "/netflixdaddy/precache-manifest.66ddd1c36cbc0d0c4f708f17a45d3158.js",
     "service-worker.js": "/netflixdaddy/service-worker.js",
     "static/css/main.ba0bc2a5.chunk.css.map": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css.map",
     "static/media/avengers.jpg": "/netflixdaddy/static/media/avengers.372568c4.jpg",
+    "static/media/candyonline.jpg": "/netflixdaddy/static/media/candyonline.2d309ee6.jpg",
     "static/media/deadpool-2.jpg": "/netflixdaddy/static/media/deadpool-2.09ef758d.jpg",
+    "static/media/fadilycamarala.jpg": "/netflixdaddy/static/media/fadilycamarala.7e5bfea7.jpg",
+    "static/media/klaus.jpg": "/netflixdaddy/static/media/klaus.cecc1a0a.jpg",
+    "static/media/maradonainmex.jpg": "/netflixdaddy/static/media/maradonainmex.f994a0e4.jpg",
     "static/media/netflix-logo.png": "/netflixdaddy/static/media/netflix-logo.a1f673e7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.835edcc5.js",
-    "static/js/2.847920f6.chunk.js",
+    "static/js/2.78d1d115.chunk.js",
     "static/css/main.ba0bc2a5.chunk.css",
-    "static/js/main.f8b1d456.chunk.js"
+    "static/js/main.f628121e.chunk.js"
   ]
 }
