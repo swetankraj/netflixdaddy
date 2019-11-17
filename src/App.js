@@ -32,7 +32,7 @@ function App() {
           backgrnd={candyonline}
           imdblink=""
           tonetflix="https://www.netflix.com/title/81191473"
-          name="Candy Online"
+          name="Candy Online: Season 1"
           rating="NA"
           dateadded="Sat 16 Nov"
           runtime="4 Episodes"
