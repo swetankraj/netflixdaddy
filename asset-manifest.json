@@ -1,28 +1,34 @@
 {
   "files": {
-    "main.css": "/netflixdaddy/static/css/main.d893ebeb.chunk.css",
-    "main.js": "/netflixdaddy/static/js/main.e5c3c2bf.chunk.js",
-    "main.js.map": "/netflixdaddy/static/js/main.e5c3c2bf.chunk.js.map",
+    "main.css": "/netflixdaddy/static/css/main.013fdeb9.chunk.css",
+    "main.js": "/netflixdaddy/static/js/main.2ff9bd07.chunk.js",
+    "main.js.map": "/netflixdaddy/static/js/main.2ff9bd07.chunk.js.map",
     "runtime-main.js": "/netflixdaddy/static/js/runtime-main.835edcc5.js",
     "runtime-main.js.map": "/netflixdaddy/static/js/runtime-main.835edcc5.js.map",
-    "static/js/2.78d1d115.chunk.js": "/netflixdaddy/static/js/2.78d1d115.chunk.js",
-    "static/js/2.78d1d115.chunk.js.map": "/netflixdaddy/static/js/2.78d1d115.chunk.js.map",
+    "static/js/2.d2a50a2a.chunk.js": "/netflixdaddy/static/js/2.d2a50a2a.chunk.js",
+    "static/js/2.d2a50a2a.chunk.js.map": "/netflixdaddy/static/js/2.d2a50a2a.chunk.js.map",
     "index.html": "/netflixdaddy/index.html",
-    "precache-manifest.766cfc7b826b1262edc0a95363b36529.js": "/netflixdaddy/precache-manifest.766cfc7b826b1262edc0a95363b36529.js",
+    "precache-manifest.9f9293d49a7b7ff62f315289fab87504.js": "/netflixdaddy/precache-manifest.9f9293d49a7b7ff62f315289fab87504.js",
     "service-worker.js": "/netflixdaddy/service-worker.js",
-    "static/css/main.d893ebeb.chunk.css.map": "/netflixdaddy/static/css/main.d893ebeb.chunk.css.map",
+    "static/css/main.013fdeb9.chunk.css.map": "/netflixdaddy/static/css/main.013fdeb9.chunk.css.map",
+    "static/media/atthedolphin.jpg": "/netflixdaddy/static/media/atthedolphin.231364d5.jpg",
     "static/media/avengers.jpg": "/netflixdaddy/static/media/avengers.372568c4.jpg",
     "static/media/candyonline.jpg": "/netflixdaddy/static/media/candyonline.2d309ee6.jpg",
     "static/media/deadpool-2.jpg": "/netflixdaddy/static/media/deadpool-2.09ef758d.jpg",
     "static/media/fadilycamarala.jpg": "/netflixdaddy/static/media/fadilycamarala.7e5bfea7.jpg",
+    "static/media/gotheunforget.jpg": "/netflixdaddy/static/media/gotheunforget.d21c3899.jpg",
+    "static/media/imwiththebandn.jpg": "/netflixdaddy/static/media/imwiththebandn.be1fee50.jpg",
     "static/media/klaus.jpg": "/netflixdaddy/static/media/klaus.cecc1a0a.jpg",
     "static/media/maradonainmex.jpg": "/netflixdaddy/static/media/maradonainmex.f994a0e4.jpg",
-    "static/media/netflix-logo.png": "/netflixdaddy/static/media/netflix-logo.a1f673e7.png"
+    "static/media/netflix-logo.png": "/netflixdaddy/static/media/netflix-logo.a1f673e7.png",
+    "static/media/theclubs1.jpg": "/netflixdaddy/static/media/theclubs1.309b881b.jpg",
+    "static/media/thestrandedtv.jpg": "/netflixdaddy/static/media/thestrandedtv.82a258f2.jpg",
+    "static/media/thetoysmades3.jpg": "/netflixdaddy/static/media/thetoysmades3.1e7471b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.835edcc5.js",
-    "static/js/2.78d1d115.chunk.js",
-    "static/css/main.d893ebeb.chunk.css",
-    "static/js/main.e5c3c2bf.chunk.js"
+    "static/js/2.d2a50a2a.chunk.js",
+    "static/css/main.013fdeb9.chunk.css",
+    "static/js/main.2ff9bd07.chunk.js"
   ]
 }

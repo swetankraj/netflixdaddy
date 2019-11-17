@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a57428aeeb82efb19bb50e20d306162e",
+    "revision": "54316c3ddb93fff6b344d6c57fa9d932",
     "url": "/netflixdaddy/index.html"
   },
   {
-    "revision": "9cb4e50c6012b3387630",
-    "url": "/netflixdaddy/static/css/main.d893ebeb.chunk.css"
+    "revision": "2b1a90e371844ff85f45",
+    "url": "/netflixdaddy/static/css/main.013fdeb9.chunk.css"
   },
   {
-    "revision": "c9fda34239005e3d0bb9",
-    "url": "/netflixdaddy/static/js/2.78d1d115.chunk.js"
+    "revision": "5a774628bb12f5aa13c7",
+    "url": "/netflixdaddy/static/js/2.d2a50a2a.chunk.js"
   },
   {
-    "revision": "9cb4e50c6012b3387630",
-    "url": "/netflixdaddy/static/js/main.e5c3c2bf.chunk.js"
+    "revision": "2b1a90e371844ff85f45",
+    "url": "/netflixdaddy/static/js/main.2ff9bd07.chunk.js"
   },
   {
     "revision": "0dbcf5987783c87ab8ce",
     "url": "/netflixdaddy/static/js/runtime-main.835edcc5.js"
+  },
+  {
+    "revision": "231364d5abd2f42cf6bfe0d1dcbb50e7",
+    "url": "/netflixdaddy/static/media/atthedolphin.231364d5.jpg"
   },
   {
     "revision": "372568c41665d8c396f1da62f6b7a2a0",
@@ -36,6 +40,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/netflixdaddy/static/media/fadilycamarala.7e5bfea7.jpg"
   },
   {
+    "revision": "d21c3899001d88d9744bc8f8d394e690",
+    "url": "/netflixdaddy/static/media/gotheunforget.d21c3899.jpg"
+  },
+  {
+    "revision": "be1fee50c21ccd0ee218f621e8c7dd58",
+    "url": "/netflixdaddy/static/media/imwiththebandn.be1fee50.jpg"
+  },
+  {
     "revision": "cecc1a0a997d2d12beb29157db664dcf",
     "url": "/netflixdaddy/static/media/klaus.cecc1a0a.jpg"
   },
@@ -46,5 +58,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1f673e7df715f16dae49f4874009082",
     "url": "/netflixdaddy/static/media/netflix-logo.a1f673e7.png"
+  },
+  {
+    "revision": "309b881b4024ce247cd639c0b813634c",
+    "url": "/netflixdaddy/static/media/theclubs1.309b881b.jpg"
+  },
+  {
+    "revision": "82a258f28c022d70d4c73715060fe301",
+    "url": "/netflixdaddy/static/media/thestrandedtv.82a258f2.jpg"
+  },
+  {
+    "revision": "1e7471b0b595735fd704275e8bb77b17",
+    "url": "/netflixdaddy/static/media/thetoysmades3.1e7471b0.jpg"
   }
 ]);
