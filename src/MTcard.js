@@ -10,7 +10,7 @@ function MTCard(props) {
     <div className="card-view">
       <div className="card-header" style={styles}>
         <div className="card-header-icon">
-          <a href="#">
+          <a href={props.tonetflix}>
             <i className="material-icons header-icon">►</i>
           </a>
         </div>
