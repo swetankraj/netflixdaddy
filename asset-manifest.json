@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css",
-    "main.js": "/netflixdaddy/static/js/main.f628121e.chunk.js",
-    "main.js.map": "/netflixdaddy/static/js/main.f628121e.chunk.js.map",
+    "main.js": "/netflixdaddy/static/js/main.70939a8f.chunk.js",
+    "main.js.map": "/netflixdaddy/static/js/main.70939a8f.chunk.js.map",
     "runtime-main.js": "/netflixdaddy/static/js/runtime-main.835edcc5.js",
     "runtime-main.js.map": "/netflixdaddy/static/js/runtime-main.835edcc5.js.map",
     "static/js/2.78d1d115.chunk.js": "/netflixdaddy/static/js/2.78d1d115.chunk.js",
     "static/js/2.78d1d115.chunk.js.map": "/netflixdaddy/static/js/2.78d1d115.chunk.js.map",
     "index.html": "/netflixdaddy/index.html",
-    "precache-manifest.66ddd1c36cbc0d0c4f708f17a45d3158.js": "/netflixdaddy/precache-manifest.66ddd1c36cbc0d0c4f708f17a45d3158.js",
+    "precache-manifest.9c1bfd2e5b09020ecde75f7d8e5621f7.js": "/netflixdaddy/precache-manifest.9c1bfd2e5b09020ecde75f7d8e5621f7.js",
     "service-worker.js": "/netflixdaddy/service-worker.js",
     "static/css/main.ba0bc2a5.chunk.css.map": "/netflixdaddy/static/css/main.ba0bc2a5.chunk.css.map",
     "static/media/avengers.jpg": "/netflixdaddy/static/media/avengers.372568c4.jpg",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.835edcc5.js",
     "static/js/2.78d1d115.chunk.js",
     "static/css/main.ba0bc2a5.chunk.css",
-    "static/js/main.f628121e.chunk.js"
+    "static/js/main.70939a8f.chunk.js"
   ]
 }
